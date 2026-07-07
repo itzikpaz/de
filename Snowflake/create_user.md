@@ -1,6 +1,6 @@
 ### CREATE Snowflake user
 
-### Create PAT user
+### Create PAT user (Programmatic Access Token)
 ```sql
 USE ROLE ACCOUNTADMIN;
 
