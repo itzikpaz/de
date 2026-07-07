@@ -4,9 +4,6 @@
 ```sql
 USE ROLE ACCOUNTADMIN;
 
--- Optional: verify available warehouses
-SHOW WAREHOUSES;
-
 -- Remove the user if it already exists (optional)
 DROP USER IF EXISTS USR_TEST;
 
